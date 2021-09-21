@@ -1,14 +1,19 @@
 # Racial Equity Data Catalog
 
-The CalEPA Racial Equity Team’s (CRET) Data Subteam serves all the Boards, Departments and Offices (BDOs) in CalEPA by building, maintaining, and enhancing data resources to advance racial equity.
+The CalEPA Racial Equity Team’s (CRET) Data Subteam serves all the Boards, Departments and Offices (BDOs) in CalEPA by building, maintaining, and enhancing data resources to advance racial equity. The six BDOs of CalEPA are as follows:
+- Air Resources Board (ARB)
+- Water Boards (WB)
+- Department of Resources Recycling and Recovery (CalRecycle)
+- Department of Toxic Substances Control (DTSC)
+- Department of Pesticide Regulation (DPR)
+- Office of Environmental Health Hazard Assessment (OEHHA)
 
-The Data Subteam has three projects that support the CalEPA Plan to Achieve Racial Equity (PARE). These projects are centered on race and organized by purpose. For example, one purpose is to inform workforce racial equity efforts. The target audience of this purpose includes the current state employee community, future employees, and those leaving our workforce. We shorthand this larger audience and purpose to “workforce”. Another purpose (shorthanded "pollution") is to deliver more racially equitable outcomes in the communities we serve by developing useful data and tools for employees. Such data and tools could be program specific or community level. For example, the Pollution and Prejudice storymap uses a community lens to measure population and pollution burdens. Finally, language access issues (i.e. linguistic isolation) span across all our public facing work at CalEPA. Therefore, the third purpose serves to support better “engagement" in the communities we serve by increasing awareness of langauge spread.
-
-The Data Subteam recognizes the existing data and tools are not enough to achieve racial equity in the workforce and communities we serve. In addition, some tools are not relevant to all environmental justice issues, like lack of access to nature cultural practices affected by water rights. Thus, each section has "ideas" for future directions. 
+The Data Subteam has three projects that support the CalEPA Plan to Achieve Racial Equity (PARE). These projects are centered on race and organized by purpose. We have shorthanded these projects as "Workforce", "Pollution", and "Engagement". The sections below outline the existing data and tools available for each project. We recognize the existing data and tools are not enough to achieve racial equity in the workforce and communities we serve. In addition, some tools are not relevant to all environmental justice issues, like lack of access to nature cultural practices affected by water rights. Thus, each section has "ideas" for future directions. 
 
 The Data Subteam is always looking to improve. For any questions, comments, or collaboration requests, please email the Data Subteam lead at <Leah.Jones@Waterboards.ca.gov>
 
 # Workforce 
+The purpose of this project is to inform workforce racial equity efforts. The target audience of this purpose includes the current state employee community, future employees, and those leaving our workforce.
 
 ## Members 
 - Lily Wu (OEHHA)  
@@ -18,7 +23,6 @@ The Data Subteam is always looking to improve. For any questions, comments, or c
 - David Altare (WB) 
 
 ## Existing Resources 
-
 ### Data 
 - Ca.gov HR data (statewide, all departments) 
   - CalHR 5102 
@@ -26,7 +30,7 @@ The Data Subteam is always looking to improve. For any questions, comments, or c
 - Racial Equity Survey(s) 
 
 ### Analysis 
-- Github repo with all code and data: <https://github.com/CAWaterBoardDataCenter/ca-state-workforce-data/> 
+- Github repo with all code and data: <https://github.com/CAWaterBoardDataCenter/ca-state-workforce-data/>
   - Includes R Script to create demographic graphs compared to census data for any state agency as well as visualizations using Microsoft Power BI 
 
 ## Questions 
@@ -36,7 +40,6 @@ The Data Subteam is always looking to improve. For any questions, comments, or c
 - At CalEPA, is someone more likely to be selected for a job based on race? 
 
 ## Ideas 
-
 ### Data 
 - Anonymous exit surveys which show:
   - Years in the system (retention)
@@ -53,6 +56,7 @@ The Data Subteam is always looking to improve. For any questions, comments, or c
 
 
 # Pollution  
+The purpose of this project is to deliver more racially equitable outcomes in the communities we serve by developing useful data and tools for employees. Such data and tools could be program specific or community level. For example, the Pollution and Prejudice storymap uses a community lens to measure population and pollution burdens. 
 
 ## Members
 - **Jenn McGovern (WB)**
@@ -75,7 +79,6 @@ The Data Subteam is always looking to improve. For any questions, comments, or c
   - Redline tool: <https://cawaterdatadive.shinyapps.io/Redline-Mapping/>  
 
 ## Ideas 
-
 ### Data
 
 ### Analysis
@@ -84,14 +87,13 @@ The Data Subteam is always looking to improve. For any questions, comments, or c
 
 
 # Engagement
-
+The purpose of this project is to support better “engagement" in the communities we serve by increasing awareness of langauge spread. Language access issues (i.e. linguistic isolation) span across all our public facing work at CalEPA.
 ## Members 
 - **Marina Perez (WB)**
 - Bev Anderson-Abbs (WB) 
 - Allysen Calalang (WB) 
 
 ## Existing Resources 
-
 ### Data 
 
 ### Analysis 
@@ -99,7 +101,6 @@ The Data Subteam is always looking to improve. For any questions, comments, or c
   - PowerBI viz: <https://bit.ly/ling_isol_viz/>
 
 ## Ideas 
-
 ### Data 
 
 ### Analysis 
