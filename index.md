@@ -12,6 +12,8 @@ The Data Subteam has three projects that support the CalEPA Plan to Achieve Raci
 
 The Data Subteam is always looking to improve. For any questions, comments, or collaboration requests, please email the Data Subteam lead at <Leah.Jones@Waterboards.ca.gov>
 
+
+
 # Workforce 
 The purpose of this project is to inform workforce racial equity efforts. The target audience of this purpose includes the current state employee community, future employees, and those leaving our workforce.
 
@@ -55,6 +57,7 @@ The purpose of this project is to inform workforce racial equity efforts. The ta
 - Analyze Racial Equity Survey trends over time (first survey data analysis in progress) 
 
 
+
 # Pollution  
 The purpose of this project is to deliver more racially equitable outcomes in the communities we serve by developing useful data and tools for employees. Such data and tools could be program specific or community level. For example, the Pollution and Prejudice storymap uses a community lens to measure population and pollution burdens. 
 
@@ -84,6 +87,7 @@ The purpose of this project is to deliver more racially equitable outcomes in th
 ### Analysis
 - Incorporating CalEnviroScreen 4.0 once uploaded 
 - Collaborating with universities on open science model 
+
 
 
 # Engagement
