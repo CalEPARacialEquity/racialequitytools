@@ -71,7 +71,7 @@ The Data Subteam is constantly looking to improve. For any questions, comments, 
 
 ### Analysis 
 - CalEPA Pollution and Prejudice Storymap / redlining and EJ: explores historic redlining data intersection with contemporary CalEnviroScreen (pollution and population burden indices) data, along with some contemporary race demographic breakdowns.  
-  - Storymap:  <https://bit.ly/pollutionandprejudice/>
+  - Storymap:  <https://storymaps.arcgis.com/stories/f167b251809c43778a2f9f040f43d2f5>
   - Redline tool: <https://cawaterdatadive.shinyapps.io/Redline-Mapping/>  
 
 ## Ideas 
@@ -96,7 +96,7 @@ The Data Subteam is constantly looking to improve. For any questions, comments, 
 
 ### Analysis 
 - Language and Linguistic Isolation
-  - PowerBI viz: <https://bit.ly/ling_isol_viz/>
+  - PowerBI viz: <https://app.powerbigov.us/view?r=eyJrIjoiMjc0YjQ2ZWQtZWU2OS00N2NjLTllODgtY2VhOTk3NDBkMjM2IiwidCI6ImZlMTg2YTI1LTdkNDktNDFlNi05OTQxLTA1ZDIyODFkMzZjMSJ9&pageName=ReportSection>
 
 ## Ideas 
 
